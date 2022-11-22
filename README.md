@@ -1,5 +1,5 @@
 # You can create a beautiful address for your wallet by generating addresses and searching them for the parameters you need.
-## Libraries - 
+## Libraries:
 ````python
 pip install eth_account
 ````
