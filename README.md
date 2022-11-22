@@ -1,8 +1,10 @@
 # You can create a beautiful address for your wallet by generating addresses and searching them for the parameters you need.
 
 Customization:
+````python
 CHAT_ID = "CHATAYDI" - Add your telegram id here (you can find out from the bot) @getmyid_bot
 BOT_TOKEN = "BOT TOKEN" - can be created in a BotFather bot
+````
 If the address you specified is found, it will come to you in the cart.
 
 
