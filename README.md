@@ -17,5 +17,7 @@ if acct.address[:8] == "0x666666" and acct.address[-10:] == "6666666666":
 ````python
 [:8] - "Number of characters"
 ````
+````python
 "6666666666" - the last digits in the address
-[-10:] - number of characters
+[-10:] - "Number of characters"
+````
