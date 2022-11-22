@@ -1,5 +1,8 @@
 # You can create a beautiful address for your wallet by generating addresses and searching them for the parameters you need.
-
+## Libraries - 
+````python
+pip install eth_account
+````
 Customization:
 ````python
 CHAT_ID = "CHATID" - "Add your telegram id here (you can find out from the bot) @getmyid_bot"
