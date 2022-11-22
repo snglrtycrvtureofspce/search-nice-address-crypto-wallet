@@ -3,7 +3,7 @@
 Customization:
 ````python
 CHAT_ID = "CHATID" - "Add your telegram id here (you can find out from the bot) @getmyid_bot"
-BOT_TOKEN = "BOT TOKEN" - "can be created in a BotFather bot"
+BOT_TOKEN = "BOT TOKEN" - "Сan be created in a BotFather bot"
 ````
 If the address you specified is found, it will come to you in the cart.
 
