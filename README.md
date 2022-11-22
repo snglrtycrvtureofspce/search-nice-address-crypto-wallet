@@ -12,7 +12,6 @@ If the address you specified is found, it will come to you in the cart.
 ````python
 if acct.address[:8] == "0x666666" and acct.address[-10:] == "6666666666":
 ````
-###
 ````python
 "0x666666" - "The first digits in the address"
 [:8] - "Number of characters"
